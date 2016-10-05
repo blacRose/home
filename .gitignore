@@ -1,0 +1,10 @@
+.tag*
+.config
+.zsh_history
+.zsh-update
+.zcompdum*
+.viminfo
+.vim
+.ssh/id_rsa
+.profile
+.bas*
